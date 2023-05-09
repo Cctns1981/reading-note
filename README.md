@@ -6,3 +6,5 @@ This is my reading notes for courses 102
 1. Look at ways to improve
 2. Be kind to myself
 3. Learn something new 
+
+https://cctns1981.github.io/reading-note/
