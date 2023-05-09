@@ -6,4 +6,9 @@
 2. Markdown can be use for everything websites, documents, presentation, emails........
 3. Its a great platform for independent.
 
-
+### What symbols will create a heading in Markdown?
+ (#) symbol will create a heading 
+ 1. How many do you need to create the largest heading?
+ The number of # you use will determine the hierarchy level and typeface size of the heading. 
+ 2. How many do you need to create the smallest heading?
+ The number of # you use will determine the hierarchy level and typeface size of the heading.
