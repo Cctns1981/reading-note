@@ -5,7 +5,8 @@ Flow control is the management of data flow between computers or devices or betw
 A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output.
 
 ## What does it mean to invoke - or call - a function?
-What does it mean to invoke - or call - a function?
+When an event occurs duringa process or invoke automatically (myfunction)
 
 ## What are the parenthesis () for when you define a function?
 They are used to contain a list of parameters passed to functions and control structures and they are used to group expressions to control the order of execution.
+
