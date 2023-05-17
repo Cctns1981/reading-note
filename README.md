@@ -7,6 +7,6 @@ This is my reading notes for courses 102
 2. Be kind to myself
 3. Learn something new 
 
-https://cctns1981.github.io/reading-note/ 
+https://github.com/cctns1981 
 
 
