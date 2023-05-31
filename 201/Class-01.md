@@ -59,9 +59,9 @@ Metadata boosts your SEO efforts because it's written in the search engine's lan
 
   What kind of action do I want the users to take once they're on the website.
 
-3. Why should you use an <h1> element over a <span> element to display a top level heading?
+3. Why should you use an element over a <span> element to display a top level heading?
 
-In HTML, the h1 element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+In HTML, the h1 element is a semantic element, which gives the text it wraps around the role (or meaning) of a top level heading on your page.
 
 4. What are the benefits of using semantic tags in our HTML?
 
