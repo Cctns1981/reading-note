@@ -29,7 +29,7 @@ HTML attributes provide additional information about HTML elements.
 HTML is made up of a series of hierarchical elements. "Most elements have an opening tag and a closing tag, with some content sandwiched in between".
 
 ### What is the Difference between <article> and <section> element tags?
-"The <section> tag: The section tag defines sections in a document, such as chapters, headers, footers, or any other sections of the document. The <article> tag: The article tag specifies independent, self-contained content."
+The section tag defines sections in a document, such as chapters, headers, footers, or any other sections of the document. The <article> tag: The article tag specifies independent, self-contained content."
 
 ### What Elements does a “typical” website include?
 
@@ -73,6 +73,7 @@ JavaScript is frequently used to create in-browser games. Developers use JavaScr
 
 
 6. How can you add JavaScript to an HTML document?
+ 
 You can add JavaScript code in an HTML document by employing the dedicated HTML tag <script> that wraps around JavaScript code
 
 
