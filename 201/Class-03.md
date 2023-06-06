@@ -1,7 +1,7 @@
 ## Learn HTML
 
 ### When should you use an unordered list in your HTML document?
- 
+
  When you wanting to display your bulleted list.
 
 ### How do you change the bullet style of unordered list items?
