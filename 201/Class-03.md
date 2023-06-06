@@ -1,68 +1,80 @@
 ## Learn HTML
 
 ### When should you use an unordered list in your HTML document?
-Improve the readability of your HTML code, it also applies meaning to content which would otherwise have none. 
+ 
+ When you wanting to display your bulleted list.
 
 ### How do you change the bullet style of unordered list items?
 The <ul> HTML element represents an unordered list of items, typically rendered as a bulleted list.
 
 ### When should you use an ordered list vs an unorder list in your HTML document?
-Unordered lists are used when the order of the items is not relevant. List items in unordered lists are marked with a bullet. Ordered lists are used for sequential information and are automatically enumerated by the browser.
+
+The unorder list are used when the order items is not relevant. The list items in unorder are marked with a bullet and the ordered list are use sequential and automatically enumerated.
 
 ### Describe two ways you can change the numbers on list items provided by an ordered list?
-type="1"	The list items will be numbered with numbers (default)
-type="A"	The list items will be numbered with uppercase letters
-type="a"	The list items will be numbered with lowercase letters
-type="I"	The list items will be numbered with uppercase roman numbers
-type="i"	The list items will be numbered with lowercase roman numbers
 
+The type -start or the combination nesting ul or ol.
 
 ## Learn CSS
 
 ### Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
-The border is drawn between the margin and the padding of a box. If you are using the standard box model, the size of the border is added to the width and height of the content box.
 
-### Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
+Margin: The inivisible space around your box. Then can push the other elements away from your box.
 
-Content box: The area where your content is displayed; size it using properties like inline-size and block-size or width and height.
-Padding box: The padding sits around the content as white space; size it using padding and related properties.
-Border box: The border box wraps the content and any padding; size it using border and related properties.
-Margin box: The margin is the outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements; size it using margin and related properties.
+Padding: To create white space around the content. I can be adjusted to your liking.
+
+### List and describe the four parts of an HTML elements box as referred to by the box model.
+
+Answer: Content, Padding, Border and Margin
 
 ## Learn JS
 
 ### What data types can you store inside of an Array?
 
-Arrays are generally described as "list-like objects"; they are basically single objects that contain multiple values stored in a list
-
-Arrays are classified as Homogeneous Data Structures because they store elements of the same type. They can store numbers, strings, boolean values (true and false), characters, objects, and so on.
+ Data Types: Strings, numbers, objects, boolean values, other arrys, etc.
 
 ### Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 
-JavaScript variables can be objects. Arrays are special kinds of objects.
+ const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
 
-Because of this, you can have variables of different types in the same Array.
+Yes its a valid array. The data type is a string and null values. It repeats throughout the array. You can access the values that are stored by usisng index of the first index. This can be done wtih console.log(people) =0 or by assigning the index array value to be variable. Then we will index that variable.
 
-You can have objects in an Array. You can have functions in an Array. You can have arrays in an Array:
+### List five shorthand operators for assignment in javascript and describe what they do.
 
-### List five shorthand operators for assignment in javascript and describe what they do
+x +=f() sets the value of x =x+f
+x/=f()  sets the value of x =x/f
+x&&=f() it determines if x and f are equal to value that in not underfined or null
+x=f() sets the value of x=f
+x_=f() sets the value of x= x -f
 
-Arithmetic Operators-mathematical function that takes two operands and performs a calculation on them.
+### Read the code below and evaluate the last expression and explain what the result would be and why.
 
-Comparison Operators- is a binary operator that takes two operands whose values are being compared. Comparison operators are used in conditional statements, especially in loops, where the result of the comparison decides whether execution should proceed.
-
-Logical (or Relational) Operators- Relational operators compare values and return either TRUE or FALSE. Logical operators perform logical operations on TRUE and FALSE.
-
-Assignment Operators- An assignment operator, in the context of the C programming language, is a basic component denoted as “=”.
-
-Conditional (or ternary) Operators-The conditional (ternary) operator is the only JavaScript operator that takes three operands: a condition followed by a question mark ( ? ), then an expression to execute if the condition is truthy followed by a colon ( : ), and finally the expression to execute if the condition is falsy
+''' Js 
+let a =10;
+let b = 'dog';
+let c = false
+ 
+ //evaluate this 
+ (a t c) + b;
+ // '10dog'
+ 
+ Answer: It will be 10dogs. The expression is adding the number 10 with string "dog", but there is nothing for "false" to be compared to.
 
 ### Describe a real world example of when a conditional statement should be used in a JavaScript program.
 
-(10 > 5) is the condition to test, which in this case is true — 10 is greater than 5. The part contained inside curly braces {} is the block of code to run. Because the condition passes, the variable outcome is assigned the value "if block".
+If the user's password input  is equal to the users password db
 
+when to run certain code blocks and example of this could be if a iuser is logged  in
+
+If you work overtime, then you'll be paid time-and-a-half.
 
 ### Give an example of when a Loop is useful in JavaScript.
-Loops are all about doing the same thing over and over again. Often, the code will be slightly different each time round the loop, or the same code will run but with different variables
+
+Software of the ATM machine is in a loop to process transaction after transaction until you acknowledge that you have no more to do.
+
+Software program in a mobile device allows user to unlock the mobile with 5 password attempts. ...
+
+When the user suppose to have a valid input.
+
 
 ## ## Things I want to know more about
