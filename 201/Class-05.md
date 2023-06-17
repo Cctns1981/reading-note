@@ -1,7 +1,7 @@
 ## HTML Media
 
 ### What is a real world use case for the alt attribute being used in a website?
-*  It enable screen for readers to read information about what iamges are provide on the screen.
+*  It enable screen for readers to read information about what images are provide on the screen.
 
 
 ### How can you improve accessibility of images in an HTML document?
