@@ -38,7 +38,7 @@ let brackNot = myObj['1']
 ## Introduction To The DOM?
 
 ### What is the DOM?
-Documen Object Model-represents the page so that programs can change the document structure, style, and content.
+Document Object Model-represents the page so that programs can change the document structure, style, and content.
 
 ### Briefly describe the relationship between the DOM and JavaScript.
 
