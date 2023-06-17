@@ -1,7 +1,9 @@
 ## JavaScript Objects Basics
 
 ### How would you describe an object to a non-technical friend you grew up with?
-Based on the concept of objects. Objects programming data structures, or objects defined. 
+Based on the concept of objects. Objects programming data structures, or objects defined.
+Collection of information that has equation or functiions
+an ojects is collection of related data. 
 
 ### What are some advantages to creating object literals?
 Create Objetcs, Flexibility in declaration, and less code during declararion.
@@ -14,6 +16,7 @@ Arrays are variables that are mutable and can be use to store list of values.
 Whenever we are accessing an objects property using a variable or when the property's key is a number or includes a symbol or is two words with a space.
 
 ### Evaluate the code below. What does the term this refer to and what is the advantage to using this?
+
 const dog = {
   name: 'Spot',
   age: 2,
@@ -22,6 +25,15 @@ const dog = {
     console.log(`${this.name} is ${this.age*7} in human years`);
   }
 }
+
+const myObj = {
+0; 'a'
+1: 'b'
+2: 'c'
+}
+let dotNot = myObj.0
+let brackNot = myObj['1']
+
 
 ## Introduction To The DOM?
 
