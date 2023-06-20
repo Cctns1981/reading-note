@@ -12,9 +12,9 @@ They both are completely separate from presentation.
 
  Semantics: HTML tags - search engines and other users devices to determine the importance and context of web pages.
 
-* <nav> element defines a set of naviagtion
-* <section> it represent the section of the document
-* <details> specifies the tag for additional details
+* nav- element defines a set of naviagtion
+* section- it represent the section of the document
+* details- specifies the tag for additional details
 
 ## Introducing Constructors
 
