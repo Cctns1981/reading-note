@@ -17,8 +17,6 @@
 
 
 ## Learn JS
-
-
 ### How would you describe events to a non-technical friend?
 * Be Attentive to your audience throughout your presentation. 
   
@@ -38,3 +36,6 @@ It helps identify which elemnt and event origimated, and most often when working
 
 * The bubbling captures and handles by innermost element and propagated to outer elemnts.
 * Event captures by the outmost element and propagated to the inner elements.
+  
+  ## Things I want to know more about
+
